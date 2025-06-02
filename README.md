@@ -51,23 +51,23 @@ python appVisual.py
 
 ### 2. Funcionalidades Principales
 
-**Crear Tarea:**
+- **Crear Tarea:**
     Haz clic en el botón Crear Tarea.
     Completa los campos requeridos: título, descripción, categoría, carpeta, fecha de vencimiento y recordatorio.
     Haz clic en Guardar para añadir la tarea.
 
-**Editar Tarea:**
+- **Editar Tarea:**
     Haz clic en el botón Editar junto a la tarea que deseas modificar.
     Cambia los datos en los campos y haz clic en Guardar Cambios.
 
-**Eliminar Tarea:**
+- **Eliminar Tarea:**
     Haz clic en el botón Eliminar junto a la tarea que deseas borrar.
 
-**Filtrar Tareas:**
+- **Filtrar Tareas:**
     Usa los botones de filtro en el panel derecho para mostrar tareas completadas, pendientes o vencidas.
 
-**Guardar Tareas:**
+- **Guardar Tareas:**
     Haz clic en el botón Guardar Tareas para guardar todas las tareas en el archivo tareas.json.
-**Salir:**
+- **Salir:**
     Haz clic en el botón Salir para cerrar la aplicación.
 
