@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1748889245.270146,
+        "titulo": "Aprobar",
+        "descripcion": "Hay que coger 3",
+        "categoria": "Escuela",
+        "carpeta": "QueHaceres",
+        "fecha_creacion": "2025-06-02T14:34:05.270146",
+        "fecha_vencimiento": "2025-06-02 14:36",
+        "completada": false,
+        "recordatorio": 1
+    },
+    {
+        "id": 1748889678.27513,
+        "titulo": "Pinga de Mono",
+        "descripcion": "No hay na",
+        "categoria": "Culos duros",
+        "carpeta": "Saborit",
+        "fecha_creacion": "2025-06-02T14:41:18.275130",
+        "fecha_vencimiento": "2025-06-02 14:44",
+        "completada": false,
+        "recordatorio": 1
+    },
+    {
+        "id": 1748889941.531142,
+        "titulo": "XXX",
+        "descripcion": "XXX",
+        "categoria": "XXX",
+        "carpeta": "XXX",
+        "fecha_creacion": "2025-06-02T14:45:41.531142",
+        "fecha_vencimiento": "2025-06-02 14:50",
+        "completada": false,
+        "recordatorio": 2
+    },
+    {
+        "id": 1748890254.368844,
+        "titulo": "YYY",
+        "descripcion": "YYY",
+        "categoria": "YYY",
+        "carpeta": "YYY",
+        "fecha_creacion": "2025-06-02T14:50:54.368844",
+        "fecha_vencimiento": "2025-06-02 14:55",
+        "completada": false,
+        "recordatorio": 1
+    },
+    {
+        "id": 1748890282.007199,
+        "titulo": "III",
+        "descripcion": "III",
+        "categoria": "III",
+        "carpeta": "III",
+        "fecha_creacion": "2025-06-02T14:51:22.007199",
+        "fecha_vencimiento": "2025-06-02 14:53",
+        "completada": false,
+        "recordatorio": 1
+    },
+    {
+        "id": 1748890742.775153,
+        "titulo": "JJ",
+        "descripcion": "JJ",
+        "categoria": "JJ",
+        "carpeta": "JJ",
+        "fecha_creacion": "2025-06-02T14:59:02.775153",
+        "fecha_vencimiento": "2025-06-02 15:00",
+        "completada": false,
+        "recordatorio": 1
+    },
+    {
+        "id": 1748891196.297035,
+        "titulo": "KK",
+        "descripcion": "KK",
+        "categoria": "KK",
+        "carpeta": "KK",
+        "fecha_creacion": "2025-06-02T15:06:36.297035",
+        "fecha_vencimiento": "2025-06-02 15:08",
+        "completada": false,
+        "recordatorio": 1
+    },
+    {
+        "id": 1748891683.871511,
+        "titulo": "GG",
+        "descripcion": "GG",
+        "categoria": "GG",
+        "carpeta": "GG",
+        "fecha_creacion": "2025-06-02T15:14:43.871511",
+        "fecha_vencimiento": "2025-06-02 15:16",
+        "completada": false,
+        "recordatorio": 1
+    },
+    {
+        "id": 1748891869.324671,
+        "titulo": "FF",
+        "descripcion": "FF",
+        "categoria": "FF",
+        "carpeta": "FF",
+        "fecha_creacion": "2025-06-02T15:17:49.324671",
+        "fecha_vencimiento": "2025-06-02 15:19",
+        "completada": false,
+        "recordatorio": 1
+    }
+]
