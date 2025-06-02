@@ -1,5 +1,5 @@
 ------------
-![](https://github.com/elMauro2003/imagenes/blob/main/SRCM-image.jpg)
+![](https://github.com/elMauro2003/imagenes/blob/main/python-todolist-tkinter.png)
 
 # Gestor de Tareas ToDoList
 
