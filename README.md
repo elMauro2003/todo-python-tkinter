@@ -1,3 +1,6 @@
+------------
+![](https://github.com/elMauro2003/imagenes/blob/main/SRCM-image.jpg)
+
 # Gestor de Tareas ToDoList
 
 Este proyecto es un gestor de tareas moderno desarrollado en Python con una interfaz gráfica basada en `customtkinter`. Permite crear, editar, eliminar y gestionar tareas con recordatorios y filtros.

@@ -39,8 +39,8 @@ def cargar_tareas():
 class ToDoApp(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Gestor de Tareas Moderno")
-        self.geometry("800x500")
+        self.title("Gestor de Tareas")
+        self.geometry("800x800")
         self.centrar_ventana(800, 500)
         self.tareas = cargar_tareas()
         self.tareas_filtradas = self.tareas
@@ -91,7 +91,6 @@ class ToDoApp(ctk.CTk):
         threading.Thread(target=self.iniciar_recordatorios, daemon=True).start()
     
     def centrar_ventana(self, ancho, alto):
-        """Centrar la ventana en la pantalla."""
         pantalla_ancho = self.winfo_screenwidth()
         pantalla_alto = self.winfo_screenheight()
         x = (pantalla_ancho // 2) - (ancho // 2)
@@ -99,7 +98,6 @@ class ToDoApp(ctk.CTk):
         self.geometry(f"{ancho}x{alto}+{x}+{y}")
     
     def centrar_ventana_secundaria(self, ventana, ancho, alto):
-        """Centrar una ventana secundaria en la pantalla."""
         pantalla_ancho = ventana.winfo_screenwidth()
         pantalla_alto = ventana.winfo_screenheight()
         x = (pantalla_ancho // 2) - (ancho // 2)
